@@ -1,4 +1,4 @@
-# learn How to make a figure  with R from  a SCI
+# learn How to make a figure by ggplot2 from  a SCI
 # 学习笔记
 ## 生信作图ggplot2-跟着SCI作图,from:生信师兄
 
